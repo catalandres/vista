@@ -3,18 +3,18 @@
   "description": "a robust description for your plugin",
   "version": "1.0.0",
   "dependencies": {
-    "@oclif/core": "^4",
+    "@oclif/core": "^4.0.14",
     "@salesforce/core": "^7.2.0",
     "@salesforce/sf-plugins-core": "^10.0.0"
   },
   "devDependencies": {
     "@oclif/plugin-command-snapshot": "^5.1.9",
-    "@salesforce/cli-plugins-testkit": "^5.3.10",
+    "@salesforce/cli-plugins-testkit": "^5.3.19",
     "@salesforce/dev-scripts": "^10",
-    "eslint-plugin-sf-plugin": "^1.18.6",
+    "eslint-plugin-sf-plugin": "^1.19.1",
     "oclif": "^4.14.9",
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.5"
+    "typescript": "^5.5.4"
   },
   "engines": {
     "node": ">=18.0.0"
