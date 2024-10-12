@@ -3,7 +3,7 @@
   "description": "a robust description for your plugin",
   "version": "1.0.0",
   "dependencies": {
-    "@oclif/core": "^4.0.14",
+    "@oclif/core": "^4.0.28",
     "@salesforce/core": "^7.2.0",
     "@salesforce/sf-plugins-core": "^10.0.0"
   },
